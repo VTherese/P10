@@ -12,7 +12,7 @@
 ### Structure du Projet
 Ce projet est structuré comme suit :
 
-📁 `function_app` : Contient tous es fichiers nécessaires à l'application
+📁 `function_app` : Contient tous les fichiers nécessaires à l'application
 
 - 📁 `data_blob_storage` : Contient les fichiers de données utilisés par l'application, stockés dans un Azure Blob Storage.
 
